@@ -1,0 +1,5 @@
+D:/my_study_need/vs2022/code/cpp_study/my_cmake_try/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/my_study_need/vs2022/code/cpp_study/my_cmake_try/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/my_study_need/vs2022/code/cpp_study/my_cmake_try/out/build/x64-debug/my_cmake_try/CMakeFiles/my_cmake_try.dir
+D:/my_study_need/vs2022/code/cpp_study/my_cmake_try/out/build/x64-debug/my_cmake_try/CMakeFiles/edit_cache.dir
+D:/my_study_need/vs2022/code/cpp_study/my_cmake_try/out/build/x64-debug/my_cmake_try/CMakeFiles/rebuild_cache.dir

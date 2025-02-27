@@ -1,0 +1,10 @@
+^D:\MY_STUDY_NEED\VS2022\CODE\CPP_STUDY\CMAKE\BUILD\CMAKEFILES\B74659ABA49DE4EDABF88E45E2DEF60F\GENERATE.STAMP.RULE
+setlocal
+D:\my_study_need\tools\CMake\cmake-3.30.3-windows-x86_64\cmake-3.30.3-windows-x86_64\bin\cmake.exe -SD:/my_study_need/vs2022/code/cpp_study/cmake/src -BD:/my_study_need/vs2022/code/cpp_study/cmake/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/my_study_need/vs2022/code/cpp_study/cmake/build/demo.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
